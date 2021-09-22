@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asil-senel
-- 👀 I’m interested in automation, robotics, software developments.
-- 🌱 I’m currently learning c++, qt, sql, industrial automation.
+- 👀 I’m interested in automation, robotics, software developments, embedded linux.
+- 🌱 I’m currently learning c++, qt, sql, ubuntu.
 - 📫 How to reach me: asil.programming@gmail.com
 
 <!---
